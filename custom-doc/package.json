@@ -1,0 +1,34 @@
+{
+  "name": "m2theme",
+  "version": "4.0.0",
+  "main": "../js/m2theme.js",
+  "license": "MIT",
+  "dependencies": {
+    "browser-sync": "^2.24.4",
+    "gulp": "^3.9.1",
+    "gulp-autoprefixer": "^5.0.0",
+    "gulp-clean-css": "^3.9.4",
+    "gulp-debug": "^4.0.0",
+    "gulp-flatten": "^0.4.0",
+    "gulp-main-npm-files": "^1.0.5",
+    "gulp-plumber": "^1.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^4.0.1",
+    "gulp-watch": "^5.0.0",
+    "main-npm-files": "^1.3.0",
+    "pkglink": "^0.7.9",
+    "sass-module-importer": "^1.4.0",
+    "jquery-focuspoint": "^1.1.3",
+    "jquery-zoom": "^1.7.20",
+    "nouislider": "^10.1.0",
+    "o2-raf": "https://github.com/o2web/raf",
+    "picturefill": "^3.0.2",
+    "slick-carousel": "^1.8.0",
+    "tablesaw": "^3.0.6",
+    "theia-sticky-sidebar": "^1.7.0",
+    "vanilla-lazyload": "8.7.1"
+  },
+  "resolutions": {
+    "node-sass": "4.8.3"
+  }
+}
